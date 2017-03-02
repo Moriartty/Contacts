@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>Android</item>
+        <item>IOS</item>
+        <item>JAVA</item>
+        <item>C++</item>
+        <item>Ruby</item>
+        <item>WEB</item>
+        <item>HTML</item>
+        <item>PERL</item>
+        <item>C</item>
+        <item>SWIFT</item>
+    </string-array>
+
+    <string-array name="outside_api">
+        <item>weixin</item>
+        <item>qq</item>
+        <item>paypal</item>
+    </string-array>
+
+    <string-array name="items">
+        <item>姓名</item>
+        <item>电话／手机号</item>
+        <item>Email</item>
+        <item>群组名称</item>
+    </string-array>
+
+    <string-array name="groupsetting">
+        <item>新建分组</item>
+        <item>删除分组</item>
+        <item>合并分组</item>
+    </string-array>
+
+    <string-array name="person_info">
+        <item>电话</item>
+        <item>Email</item>
+        <item>QQ</item>
+        <item>微信</item>
+        <item>微博</item>
+    </string-array>
+</resources>

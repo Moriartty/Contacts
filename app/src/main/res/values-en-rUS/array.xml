@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="titles">
+        <item>Android</item>
+        <item>IOS</item>
+        <item>JAVA</item>
+        <item>C++</item>
+        <item>Ruby</item>
+        <item>WEB</item>
+        <item>HTML</item>
+        <item>PERL</item>
+        <item>C</item>
+        <item>SWIFT</item>
+    </string-array>
+
+    <string-array name="outside_api">
+        <item>@string/wechat</item>
+        <item>@string/qq</item>
+        <item>@string/paypal</item>
+    </string-array>
+
+    <string-array name="items">
+        <item>@string/nameedit_hint</item>
+        <item>@string/phoneedit_hint</item>
+        <item>@string/emailedit_hint</item>
+        <item>@string/groupname</item>
+    </string-array>
+
+    <string-array name="groupsetting">
+        <item>@string/new_group</item>
+        <item>@string/delete_group</item>
+        <item>@string/unite_group</item>
+    </string-array>
+</resources>

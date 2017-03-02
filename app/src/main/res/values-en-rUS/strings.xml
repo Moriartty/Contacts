@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">ContactTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="nameedit_hint">Name</string>
+    <string name="phoneedit_hint">Tel/Phone</string>
+    <string name="emailedit_hint">Email</string>
+    <string name="default_group">Default</string>
+    <string name="newgrouop_name_hint">Please input a new group name</string>
+    <string name="nopeople_hint">There is no contact in your phone,add it now！</string>
+    <string name="example">example</string>
+    <string name="imgbtn_tips">You can set your head portrait in here</string>
+    <string name="thisis">This is</string>
+    <string name="interfce">interface</string>
+    <string name="mygroup">My Group</string>
+    <string name="allcontacts">All Contacts</string>
+    <string name="noedit_tips">You must write something in here</string>
+    <string name="addcontact_success">Added succeed</string>
+    <string name="deletecontact_success">Deleteed succeed</string>
+    <string name="wechat">WeChat</string>
+    <string name="qq">QQ</string>
+    <string name="paypal">Paypal</string>
+    <string name="groupname">Group Name</string>
+    <string name="new_group">New Group</string>
+    <string name="delete_group">Delete Group</string>
+    <string name="unite_group">Unite Group</string>
+    <string name="ok">OK</string>
+    <string name="cancel">CANCEL</string>
+</resources>

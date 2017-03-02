@@ -1,0 +1,85 @@
+<resources>
+    <string name="app_name">通讯录</string>
+    <string name="action_scan">扫一扫</string>
+    <string name="nameedit_hint">姓名</string>
+    <string name="phoneedit_hint">电话／手机号码</string>
+    <string name="emailedit_hint">邮件地址</string>
+    <string name="default_group">默认分组</string>
+    <string name="newgrouop_name_hint">请输入新建组名</string>
+    <string name="nopeople_hint">当前手机中没有联系人，快去添加吧！</string>
+    <string name="example">举个栗子</string>
+    <string name="imgbtn_tips">这里可以设置头像</string>
+    <string name="thisis">这是</string>
+    <string name="interfce">接口</string>
+    <string name="mygroup">我的群组</string>
+    <string name="allcontacts">所有联系人</string>
+    <string name="noedit_tips1">电话信息必须填写哦</string>
+    <string name="noedit_tips2">电话号码格式不对哦</string>
+    <string name="addcontact_success">添加成功</string>
+    <string name="deletecontact_success">删除成功</string>
+    <string name="delete_success">删除成功</string>
+    <string name="wechat">微信</string>
+    <string name="qq">QQ</string>
+    <string name="paypal">支付宝</string>
+    <string name="groupname">群组名称</string>
+    <string name="new_group">新建分组</string>
+    <string name="delete_group">删除分组</string>
+    <string name="unite_group">合并分组</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+
+    <string name="moveto">移动至</string>
+    <string name="alert">组名为空时，默认为默认分组！</string>
+    <string name="addgroup_success">添加分组成功</string>
+    <string name="deletegroup_success">删除分组成功</string>
+    <string name="unitegroup_success">合并分组成功</string>
+    <string name="alert_deletecontacttitle">删除联系人</string>
+    <string name="alert_deletecontactfirst">确定要删除 </string>
+    <string name="alert_deletecontactlast"> 么？</string>
+    <string name="alert_addnewgroup">该分组已存在</string>
+    <string name="searchedithintfirst">搜索当前</string>
+    <string name="searchedithintlast">位联系人</string>
+    <string name="menu_one">删除联系人</string>
+    <string name="menu_two">移至／加入分组</string>
+    <string name="menu_three">分享二维码</string>
+    <string name="unabletoaddcontact">联系人保存未成功</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="wait_to_add">请稍候...</string>
+    <string name="detail_name">姓名: </string>
+    <string name="detail_phone">电话: </string>
+    <string name="detail_email">邮箱: </string>
+    <string name="tdcDialog_text">扫一扫“二维码名片”，即可添加我的联系方式到联系人</string>
+    <string name="person_info_imgbtn_first">分享二维码</string>
+    <string name="person_info_imgbtn_second">通话记录</string>
+    <string name="person_info_imgbtn_third">收藏联系人</string>
+    <string name="cancle_collect">取消该收藏</string>
+    <string name="action_edit">编辑</string>
+    <string name="toolbar_my_name_hint">我是谁 = =#</string>
+    <string name="no_name">未命名</string>
+    <string name="write_in_myself_succeed">名片编辑成功</string>
+    <string name="write_in_myself_failed">写入失败，请重试！</string>
+    <string name="addresses_tieba">百度贴吧</string>
+    <string name="addresses_weibo">新浪微博</string>
+    <string name="address_qqzone">QQ空间</string>
+    <string name="system_valuesort">特别关注</string>
+    <string name="change_personinfo_bg_string">背景</string>
+    <string name="action_reserve">备份</string>
+    <string name="connected_filed_tips">服务器连接不上,请查看网络并刷新重试</string>
+    <string name="no_phone_details">#=_=快去填写电话信息</string>
+    <string name="no_email_details">#=_=快去填写邮箱信息</string>
+    <string name="my_collect">我的收藏</string>
+    <string name="person_info_tips1">快去填写</string>
+    <string name="person_info_tips2">的贴吧信息吧</string>
+    <string name="person_info_tips3">的微博信息吧</string>
+    <string name="synchronized_reserve">数据上传中...</string>
+    <string name="synchronized_reserve_success">数据上传成功</string>
+    <string name="synchronized_reserve_failed">与服务器失去连接，数据上传失败</string>
+    <string name="lack_of_myself_info">个人信息不全！快去填写个人信息吧！</string>
+    <string name="network_inaccessible">网络连接异常</string>
+    <string name="collect_succeed">收藏该联系人成功</string>
+    <string name="collect_cancle">取消收藏该联系人成功</string>
+    <string name="cannot_to_collect_myself">收藏自己没有意义哦!</string>
+    <string name="action_consummate">数据完善</string>
+</resources>
